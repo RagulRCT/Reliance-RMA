@@ -15,10 +15,25 @@ function Contact() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">Contact</h1>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
+              M/S. Reliance Maritime Agencies
+
+Old No. 155 New No. 210, II Floor,
+
+Angappa Naicken Street,
+
+Chennai � 600 001.
+
+Tel : 91-44-2523 2550, 91-44-2524 6441
+
+Fax: 91-44-4205 1598
+
+E-mail-id : reliancerma@gmail.com
+
+ 
+Contact Numbers And Details
+Capt. N.M. Ramchandani, Partner - +91 9840138326
+
+D.V.Dinesh Kumar, Partner - +91 9789051127
             </p>
           </div>
         </div>
