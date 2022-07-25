@@ -15,10 +15,9 @@ function About() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">About</h1>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
+              Reliance Maritime Agencies a licensed Custom broker is Chennai based Custom clearance and freight forwarding Company engaged in providing end to end logistics solution. Reliance Maritime Agencies serving the trade and industry since 1992 by Master Marine Capt. N.M Ramchandani with 30 years of experience in shipping and cargo work. This is a professionally managed company with well-trained qualified & experienced professional to serve the esteemed customers. We believe in delivering high quality, dedicated and personalized services to our esteemed customers. We provide "one-stop-solution" to meet all your logistics requirements. It has the level of service, expertise and experience to make it happen.
+
+
             </p>
           </div>
         </div>
