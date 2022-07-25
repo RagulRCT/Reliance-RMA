@@ -15,22 +15,14 @@ function Contact() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">Contact</h1>
             <p>
-              M/S. Reliance Maritime Agencies
+              M/S. Reliance Maritime Agencies Old No. 155 New No. 210, II Floor, Angappa Naicken Street,Chennai � 600 001.</p>
+    <p>Tel : 91-44-2523 2550, 91-44-2524 6441</p>
+    
 
-Old No. 155 New No. 210, II Floor,
-
-Angappa Naicken Street,
-
-Chennai � 600 001.
-
-Tel : 91-44-2523 2550, 91-44-2524 6441
-
-Fax: 91-44-4205 1598
-
-E-mail-id : reliancerma@gmail.com
+<p>E-mail-id : reliancerma@gmail.com</p>
 
  
-Contact Numbers And Details
+<p>Contact Numbers And Details
 Capt. N.M. Ramchandani, Partner - +91 9840138326
 
 D.V.Dinesh Kumar, Partner - +91 9789051127
