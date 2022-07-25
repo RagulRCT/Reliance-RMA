@@ -15,9 +15,9 @@ function Posts() {
               />
             </div>
             <div class="col-lg-5">
-              <h1 class="font-weight-light">This is a post title</h1>
+              <h1 class="font-weight-light">Personalized service IN freight Forwarding!!!</h1>
               <p>
-                Personalized service IN freight Forwarding!!!
+                By, Zameer
               </p>
             </div>
           </div>
